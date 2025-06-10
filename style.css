@@ -11,6 +11,6 @@ body {
     display: flex;
     margin: auto;
 }
-.all_property p{
+.all_property .text1{
     display: none;
 }
