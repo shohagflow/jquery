@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $('h2').click(function(){
+    $('.all_property h2').click(function(){
         $('.all_property .text1').show(200);
 
     });
