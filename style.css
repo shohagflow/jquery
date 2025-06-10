@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.one {
+    height: 2rem;
+    width: 7rem;
+    background-color: red;
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
+.all_property p{
+    display: none;
+}
